@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/> I'm Rom Patil</h1>
 
 <h3 align="center">AI Engineer & Co-Founder, Building Production-Grade AI Systems</h3>
-<h4 align="center">Final-Year CS Student @ University of Wollongong · Based in Dubai</h4>
+<h4 align="center"> Computer Science Graduate @ University of Stirling · Based in Dubai</h4>
 
 <p align="center">
 Co-Founder & Technical Lead @<b>RevelQ</b> (AI spreadsheet intelligence SaaS) | Ex-Operations Intern @<b>Qlub</b> | Building production RAG systems, AI-native SaaS, and agentic pipelines
@@ -19,7 +19,7 @@ Co-Founder & Technical Lead @<b>RevelQ</b> (AI spreadsheet intelligence SaaS) | 
 ## About Me
 
 - 🏗️ Co-founder & technical lead at **RevelQ** — an AI-powered spreadsheet intelligence SaaS
-- 🎓 Final-year Computer Science student at the University of Wollongong
+- 🎓 Computer Science Graduate From the University of Stirling
 - 🧠 Focused on **production RAG systems, agentic pipelines, and AI-native SaaS** — not tutorial clones
 - 💼 Operations background from an internship at **Qlub** (UAE restaurant payments) — brings production instincts to my technical work
 - 🛠️ Comfortable across the stack: FastAPI, Next.js, Supabase, vector search, and grounded LLM generation
@@ -30,7 +30,7 @@ Co-Founder & Technical Lead @<b>RevelQ</b> (AI spreadsheet intelligence SaaS) | 
 ## 🚀 What I'm Building
 
 ### [RevelQ](#) — AI Spreadsheet Intelligence SaaS
-Co-founded and technically leading an AI-powered platform that brings spreadsheet intelligence to teams. *(add a one-line pitch + link)*
+Co-founded and technically leading an AI-powered platform that brings spreadsheet intelligence to teams. I lead the technical architecture, product development, and AI integration. Our MVP--built with React, TypeScript, FastAPI, PostgreSQL, and Python (pandas, scikit-learn, Prophet) automates data cleaning, correlation analysis, anomaly detection, and forecasting to produce Power BI-ready outputs and visual PDF summaries.
 
 ### [f1-rag](https://github.com/Rompatil/f1-rag) — Production RAG Backend for Formula 1 Data
 A grounded RAG system answering F1 questions from 1995–2026 data. FastAPI + FAISS + sentence-transformers, semantic chunking across 6 data types, LRU caching, 29 passing tests, Claude-powered generation with source citations and confidence scoring.
@@ -38,10 +38,10 @@ A grounded RAG system answering F1 questions from 1995–2026 data. FastAPI + FA
 ### [productpilot](https://github.com/Rompatil/productpilot) — AI Product Copilot
 An AI-native PM workspace: idea → PRD → user stories → roadmap. Next.js 14 (App Router), Supabase with RLS, all AI calls routed through a single reviewable prompt layer.
 
-### [docgen-ai](https://github.com/Rompatil/docgen-ai) — *(add a one-line description)*
+### [docgen-ai](https://github.com/Rompatil/docgen-ai) —  AI-powered codebase documentation generator. Analyzes repos via AST parsing and generates architecture docs, API references, module guides, and onboarding material.
 
 ### Personal Admin Autopilot & Personal Daily Agent
-Agentic tools automating personal admin and daily workflows. *(add details)*
+Agentic tools automating personal admin and daily workflows.
 
 ---
 
@@ -62,17 +62,11 @@ Agentic tools automating personal admin and daily workflows. *(add details)*
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rompatil&show_icons=true&count_private=true&theme=default"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rompatil&layout=compact"/>
-</p>
 
 ---
 
 ## 📫 Connect With Me
 
-<a href="#">LinkedIn</a> · <a href="#">Portfolio</a> · <a href="#">Email</a>
+<a href="https://www.linkedin.com/in/rom-patil/">LinkedIn</a> · <a href="rompatil.me">Portfolio</a> · <a href="rompatil618@gmail.com">Email</a>
 
 <sub>Currently focused on production RAG systems, agentic AI, and shipping RevelQ.</sub>
